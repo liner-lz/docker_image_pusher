@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/zhongjunkeji/skywalking-agent:8.2.0
+swr.cn-north-4.myhuaweicloud.com/ddn-k8s/registry.k8s.io/e2e-test-images/busybox:1.29-4
